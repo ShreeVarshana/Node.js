@@ -28,3 +28,6 @@ console.log(math.div(3, 3))
 
 
 // Instead of .js if we put the .mjs the ES6 can be used efficiently like the "import os from 'os' " this explicitly imports the ES6 into the Javascript
+
+
+console.log("------------------------ FILE SYSTEM --------------------------")
